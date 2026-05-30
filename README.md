@@ -73,8 +73,8 @@ Rather than a single pipeline, this project is a **data storytelling exercise** 
 ```
 fies-data-storytelling/
 ├── slides/
-│   └── fies_storytelling.pptx     ← Full presentation deck (44 slides)
-├── analysis_snippets.py            ← All analysis code, organized by theme
+│   └── fies_storytelling.pptx      ← Full presentation deck (44 slides)
+├── fies_storytelling.ipynb         ← Full analysis notebook, organized by theme
 ├── requirements.txt                ← Python dependencies
 ├── .gitignore                      ← Dataset excluded
 ├── LICENSE                         ← MIT
