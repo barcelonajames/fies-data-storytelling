@@ -9,6 +9,11 @@ A collaborative data storytelling project analyzing the 2021 Philippine Family I
 
 Rather than a single pipeline, this project is a **data storytelling exercise** — each theme poses a real question about Philippine household economics, answers it with code and charts, and frames the finding as a human-readable insight. The presentation format mirrors how data analysis is communicated to non-technical stakeholders in professional settings.
 
+## Project Deliverables
+
+[View Presentation (Google Slides)](https://docs.google.com/presentation/d/1o4Nu46gm-Edse7zSldJBIzAIdaftHODWul7Sf_wc7U8/edit?usp=drive_link)  
+[View Analysis Notebook (Google Drive)](https://drive.google.com/file/d/1dTrizfzilhBTgG0HC3Ojg0oa-1nCicDk/view?usp=sharing)
+
 ---
 
 ## Team
