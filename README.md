@@ -5,6 +5,8 @@ A collaborative data storytelling project analyzing the 2021 Philippine Family I
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dTrizfzilhBTgG0HC3Ojg0oa-1nCicDk)
 
+[View Presentation Deck](slides/Filipino_Family_Income_and_Expenditure_Survey___Uncovering_Stories_from_Data.pptx)
+
 ---
 
 ## The Project
