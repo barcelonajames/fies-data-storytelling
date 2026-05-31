@@ -3,6 +3,10 @@
 
 A collaborative data storytelling project analyzing the 2021 Philippine Family Income and Expenditure Survey (FIES) dataset. Six analytical themes were developed across five team members, pairing Python visualizations with narrative insights presented as a structured slide deck.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dTrizfzilhBTgG0HC3Ojg0oa-1nCicDk)
+
+[View Presentation Deck](slides/Filipino_Family_Income_and_Expenditure_Survey___Uncovering_Stories_from_Data.pptx)
+
 ---
 
 ## The Project
@@ -68,8 +72,8 @@ Rather than a single pipeline, this project is a **data storytelling exercise** 
 ```
 fies-data-storytelling/
 ├── slides/
-│   └── fies_storytelling.pptx     ← Full presentation deck (44 slides)
-├── analysis_snippets.py            ← All analysis code, organized by theme
+│   └── fies_storytelling.pptx      ← Full presentation deck (44 slides)
+├── fies_storytelling.ipynb         ← Full analysis notebook, organized by theme
 ├── requirements.txt                ← Python dependencies
 ├── .gitignore                      ← Dataset excluded
 ├── LICENSE                         ← MIT
